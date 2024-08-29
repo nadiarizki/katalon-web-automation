@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Restart_box_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>ec53ee1a-e506-443c-9c9d-a568292b014c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='grid']/div[9]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(9) > span.box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^4$/ >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3ac469b3-11cd-455e-a776-831d2dd38f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box</value>
+      <webElementGuid>732d8c4f-3cc6-4c94-8341-66f87dbd4c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid&quot;)/div[9]/span[@class=&quot;box&quot;]</value>
+      <webElementGuid>b6dad735-714c-406a-a6a2-56f6d9e24418</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='grid']/div[9]/span</value>
+      <webElementGuid>9dc56ce2-d453-491c-afe5-636edd017393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/span</value>
+      <webElementGuid>ede7bdd3-8aa7-4ef2-9059-23a94dbef6e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

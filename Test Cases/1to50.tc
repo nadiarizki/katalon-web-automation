@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1to50</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85efc3ce-f1e5-4d35-ab80-2ac7562b876c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d6dfa34e-84e6-4c05-af28-9791be4bd66d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>d6dfa34e-84e6-4c05-af28-9791be4bd66d</id>
+      <masked>false</masked>
+      <name>counter</name>
+   </variable>
+</TestCaseEntity>
